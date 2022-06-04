@@ -1,0 +1,105 @@
+.back-btn{
+  color:rgba(187, 117, 253, 0.351);
+  font-size: 4rem;
+  margin-left: -20rem;
+  margin-top: -5rem;
+  
+}
+.back-btn:hover{
+  color: rgb(156, 192, 255);
+  text-shadow: 0px 0px 11px rgba(206,206,206,0.77);
+  
+}  
+.admin-login-form-header1{
+  padding: 10px 0;
+  color: white;
+  font-family: sans-serif;
+  font-size: large;
+  margin-left: 25rem;
+  }
+
+.editbody1 {
+    border: 1px solid red;
+    padding-top: 15px;
+    padding-left: 8rem;
+    background-color: rgba(13, 13, 70, 0.416);
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+  }
+  .adddrugs1{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://medicaldialogues.in/h-upload/2020/11/27/1600x960_143019-z-drugs.jpg");
+    padding-left:14rem;
+    padding-top: 2rem;
+    padding-right: 15rem;
+    padding-bottom: 9.5rem;
+}
+  form .natv {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 1rem;
+    position: relative;
+    margin-left: 15rem;
+  
+  }
+
+  .admin-login-form-header{
+    font-family: "Poppins", sans-serif;
+    text-align: left;
+    font-size: 24px;
+    color: #fff;
+    padding: 16px;
+  }
+
+  .admin-login-form-container1{
+    margin-bottom: 15.2rem;
+    margin-left: 17rem;
+    margin-top: 8.5rem;
+  }
+  /*input*/
+  .iedit1{
+    border-radius: 5px;
+    border: 1px solid rgb(229, 216, 216);
+    padding: 20px 80px 20px 40px;
+    text-align: left;
+    color: grey;
+    font-size: large;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+/*login button*/
+.wbit1{
+  background-color: #b2b6d796;
+  padding: 20px 15rem 20px 15rem;
+  margin-left: 0rem;
+  margin-top: 10px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+
+}
+.wbit1:hover{
+  background-color: rgb(43, 177, 226);
+  color: white;
+  box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
+
+  
+  .login-admin-user{
+    color: #0B1A47;
+    position: absolute;
+    font-size: 24px;
+    left: 16px;
+  }

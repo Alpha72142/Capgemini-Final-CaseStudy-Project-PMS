@@ -1,0 +1,14 @@
+ *,*::before,
+ *::after{
+margin: 0;
+padding: 0;
+box-sizing:border-box;
+     }
+
+
+.adddrugs-popup{
+font-family: 'Poppins', sans-serif;
+background-color: rgb(20, 19, 58);
+background-size: cover;
+background-attachment: fixed;
+}

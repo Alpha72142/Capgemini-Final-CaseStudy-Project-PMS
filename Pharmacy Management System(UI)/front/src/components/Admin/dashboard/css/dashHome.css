@@ -1,0 +1,25 @@
+.dashHome{
+    flex: 5;
+    background-color: rgb(250, 250, 250);
+   
+    
+   
+  }
+
+  .homeWidgets{
+
+    display: flex;
+    margin: 20px;
+
+  }
+  .container-sidebar{  
+    display: flex;
+    margin-top: 10px;
+    
+    
+  }
+  
+  
+  
+  
+  

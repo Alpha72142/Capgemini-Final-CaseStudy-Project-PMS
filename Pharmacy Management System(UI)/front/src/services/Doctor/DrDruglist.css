@@ -1,0 +1,67 @@
+.tableFixHead1{
+    overflow-y: auto;
+    height: 492px;
+  }
+  .tableFixHead1 thead th {
+    position: sticky;
+    top: 0;
+  }
+  .tableFixHead1{
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.7);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.7);
+    box-shadow: 0px 0px 19px 0px rgba(0,0,0,0.7);
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 5px;
+}
+.navbar-collapse{
+    margin-left: 29.4rem;
+}
+.linkdesign1{
+   
+    height: fit-content;
+    width: 150px;
+    border-radius: 10px;
+    padding: 15px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.678);
+}
+.linkdesign1:hover{
+    background-color: rgba(0, 0, 0, 0.286);
+    color: rgb(255, 255, 255);
+}
+.logouth1{
+    color: rgba(255, 68, 68, 0.584);
+    height: fit-content;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+    padding: 18px;
+    font-size: 16px;
+    color: rgba(255, 255, 255, 0.659);
+    font-family: "Poppins", sans-serif;
+    text-decoration: none;
+   
+}
+.logoutH1:hover{
+    background-color: #d32f2f80;
+    color: #fff;
+} 
+.nav-item-l{
+    margin-top: 1rem;
+  
+    
+}
+.search{
+    margin-top: 1rem;
+    width: 300px;
+    padding: 12px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.search-icon-edit{
+    margin-top: 9px;
+    margin-left: 5.5rem;
+}

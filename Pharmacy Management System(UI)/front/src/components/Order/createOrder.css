@@ -1,0 +1,72 @@
+.iedit2{
+    margin-right: 18.6rem;
+    margin-left: -1.2rem;
+    border-radius: 5px;
+    border: 1px solid rgb(229, 216, 216);
+    padding: 1.22rem 0 1.5rem 40px;
+    text-align: left;
+    color: grey;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+.editbody2{
+    border: none;
+    padding-top: 5rem;
+    padding-bottom: 4.8rem;
+    padding-left: 20rem;
+    background-color: rgba(13, 13, 70, 0.416);
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+.adddrugs2{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://medicaldialogues.in/h-upload/2020/11/27/1600x960_143019-z-drugs.jpg");
+    padding-left:14rem;
+    margin-right: -0rem;
+    padding-top: 2rem;
+    padding-right: 14rem;
+}
+.form-field{
+ padding: 5px;
+ list-style: none;
+}
+.wbit2{
+    background-color: #9fd8b696;
+    padding: 1.5rem 7.2rem 1.5rem 7.2rem;
+    margin-left: 11.7rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.wbit2:hover{
+    background-color: rgb(43, 177, 226);
+    color: white;
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
+.inside3{
+    margin-left: 1.9rem;
+    margin-right: -4.2rem;
+
+}
+.inside1{
+    margin-left: -10.5rem;
+    
+}
+.back-btn1{
+    color:rgba(187, 117, 253, 0.351);
+    font-size: 5rem;
+    margin-left: -19rem;
+    margin-top: -4rem;
+    
+  }
+  .back-btn1:hover{
+      color: rgba(244, 225, 99, 0.603);
+  }

@@ -1,0 +1,132 @@
+.drugs-model-container{
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  background-color: rgba(0, 0, alpha, 0.25);
+
+
+}
+.addDrugs-model{
+    background-color:rgba(255, 255, 255, 0.15)  ;
+    width:calc(15rem+15vw);
+    height: auto;
+    padding: 2rem;
+    border-radius: 20px;
+}
+
+.addDrugs-model-header{
+    position: relative;
+    border-bottom: 1px solid #958080;
+    padding: 0rem 5rem ;
+}
+
+.addDrugs-model-header-title{
+    text-align: center;  
+    color: aliceblue;
+}
+
+.adddrugs-close{
+    position: absolute;
+    top: 0;
+    right:0;
+    padding: 2px 5px ;
+    border-radius: 50px;
+    margin-right: -25px;
+    margin-top: -26px;
+    background-color: red;
+    font-weight: bold;
+    color: black;
+    border: none;
+    
+} 
+.adddrugs-close:hover{
+    color: #ffffff;
+    background-color: rgb(255, 97, 97);
+}
+.addDrugs-model-content{
+    border-bottom: 1px solid #dddddd;
+    padding:2rem 0;
+    color:wheat
+}
+.addDrugs-model-footer{
+    padding: 2rem 0;
+    padding-bottom: 8px;
+}
+.model-buttons{
+    float: right;
+    padding: 0.5rem;
+    border-radius: 8px;
+}
+.addDrugs-model-submit{
+  margin-right: 3rem;
+  padding:1rem 5rem;
+  background-color:green;
+  font-size: 12px;
+  font-weight: bold;
+  color: rgb(217, 188, 188);
+  border: none;
+}
+.addDrugs-model-submit:hover{
+    -webkit-box-shadow: 0px 0px 21px -5px rgb(214, 206, 223);
+    -moz-box-shadow: 0px 0px 21px -5pxrgb(214, 206, 223);
+    box-shadow: 0px 0px 21px -5px rgb(214, 206, 223);
+background-color: rgb(47, 164, 47);
+}
+.addDrugs-model-input-box{
+   display: flex;
+   padding: 0.5rem;
+   padding-right: 2rem;
+   
+   
+}
+.addDrugs-model-input-box-pad{
+    padding-left: 2rem;
+   
+}
+.addDrugs-model-input{
+   text-align: left;
+   padding: 1.5rem 2rem;
+   border: none;
+   border-radius: 7px;
+   font-family: 'Poppin',sans-serif;
+   font-size: large;
+   color: #958080;
+
+   -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+   -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.5);
+   box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
+.addDrugs-model-input-date{
+    
+    padding: 1rem 3.97rem;
+    border: none;
+    border-radius: 7px;
+    font-family: 'Poppin',sans-serif;
+    color: #958080;
+    
+
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
+.addDrugs-model-input-details{
+    padding: 1.5rem 17rem;
+    border: none;
+    border-radius: 7px;
+    font-family: 'Poppin',sans-serif;
+    font-size: medium;
+    color: #958080;
+    
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}

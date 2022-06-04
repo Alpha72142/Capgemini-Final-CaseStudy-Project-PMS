@@ -1,0 +1,33 @@
+
+  .dlink{
+    font-size: 16px;
+    color: #e2d2d7;
+    font-family: "Poppins", sans-serif;
+    font-weight: 50px;
+    margin-left: 27.5rem;
+    
+
+  }
+
+  .dlink:hover{
+    color:#FFA842
+  }
+  .back-btn1{
+    color:rgba(187, 117, 253, 0.351);
+    font-size: 4rem;
+    margin-left: -20rem;
+    margin-top: -5rem;
+    
+  }
+  .back-btn:hover1{
+    color: rgb(156, 192, 255);
+    text-shadow: 0px 0px 11px rgba(206,206,206,0.77);
+    
+  } 
+  .adddrugs2{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://medicaldialogues.in/h-upload/2020/11/27/1600x960_143019-z-drugs.jpg");
+    padding-left:14rem;
+    padding-top: 2rem;
+    padding-right: 15rem;
+    padding-bottom: 6.2rem;
+}

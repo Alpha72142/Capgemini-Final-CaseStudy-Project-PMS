@@ -1,0 +1,83 @@
+.editbody32{
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 8.5rem;
+    padding-left: 0rem;
+    background-color: rgba(13, 13, 70, 0.416);
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+
+.editbody3{
+    border: none;
+    padding-top: 15px;
+    padding-bottom: 4.45rem;
+    padding-left: 0rem;
+    background-color: rgba(13, 13, 70, 0.416);
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+.admin-login-form-header3{
+padding: 10px 0;
+color: white;
+font-family: sans-serif;
+font-size: large;
+margin-left: 15rem ;
+}
+.adddrugs{
+    
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url("https://medicaldialogues.in/h-upload/2020/11/27/1600x960_143019-z-drugs.jpg");
+    padding-left:14rem;
+    margin-right: -0rem;
+    padding-top: 2rem;
+    padding-right: 14rem;
+}
+
+.form-field.natv{
+    padding: 2px;
+   
+}
+.iedit{
+    border-radius: 5px;
+    border: 1px solid rgb(229, 216, 216);
+    padding: 10px 40px 10px 40px;
+    text-align: left;
+    color: grey;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.4);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+    
+}
+textarea{
+    border-radius: 5px;
+    border: 1px solid rgb(229, 216, 216);
+    padding: 10px 40px 10px 40px;
+    text-align: left;
+    color: grey;
+    -webkit-box-shadow: 0px 0px 19px 0px rgba(218, 179, 179, 0.3);
+    -moz-box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.5);
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
+.wbit{
+    background-color: #9fd8b696;
+    padding: 10px 20px 10px 20px;
+    margin-left: 11.7rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+
+}
+.wbit:hover{
+    background-color: rgb(43, 177, 226);
+    color: white;
+    box-shadow: 0px 0px 19px 0px rgba(255, 255, 255, 0.3);
+
+}
